@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task 5.1C</string>
+    <string name="top_stories">TOP STORIES</string>
+    <string name="news">NEWS</string>
+    <string name="goto_subtask2">Go to subtask 2\niTube App</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="youtube_url_label">YouTube URL:</string>
+    <string name="youtube_url">https://www.youtube.com/</string>
+    <string name="play">Play</string>
+    <string name="add_to_playlist">Add to Playlist</string>
+    <string name="my_playlist">My Playlist</string>
+</resources>

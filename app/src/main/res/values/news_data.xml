@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="news_titles">
+        <item>Space Discovery</item>
+        <item>Space Discovery 2.0</item>
+        <item>Healthy Living</item>
+        <item>Tech Update</item>
+        <item>Sports Highlights</item>
+        <item>Entertainment Buzz</item>
+        <item>World News Update</item>
+        <item>Financial Insights</item>
+        <item>Travel Adventures</item>
+        <item>Food Trends</item>
+        <item>Fashion Update</item>
+        <item>Healthcare Innovations</item>
+        <item>Science Breakthroughs</item>
+        <item>Art and Culture News</item>
+        <item>Business Trends</item>
+        <item>Environmental Updates</item>
+    </string-array>
+
+    <string-array name="news_descriptions">
+        <item>Scientists make groundbreaking discovery in outer space.</item>
+        <item>This just in: they found even more in space!</item>
+        <item>Expert tips for a healthy lifestyle.</item>
+        <item>Latest news on gadgets and technology.</item>
+        <item>Catch up on the latest sports news and highlights.</item>
+        <item>Curated list of must-watch movies and TV shows.</item>
+        <item>Stay informed with the latest global events.</item>
+        <item>Insights and analysis on financial markets.</item>
+        <item>Explore the world\'s most exciting destinations.</item>
+        <item>Discover the latest food and culinary trends.</item>
+        <item>Stay stylish with the newest fashion trends.</item>
+        <item>New advancements in healthcare technology.</item>
+        <item>Breakthroughs in scientific research.</item>
+        <item>Explore the latest in art, music, and literature.</item>
+        <item>Insights into current business strategies and developments.</item>
+        <item>Updates on environmental conservation efforts.</item>
+    </string-array>
+
+    <integer-array name="news_images">
+        <item>@drawable/space</item>
+        <item>@drawable/space2</item>
+        <item>@drawable/health</item>
+        <item>@drawable/tech</item>
+        <item>@drawable/sport</item>
+        <item>@drawable/popcorn</item>
+        <item>@drawable/world</item>
+        <item>@drawable/financial</item>
+        <item>@drawable/travel</item>
+        <item>@drawable/food</item>
+        <item>@drawable/fashion</item>
+        <item>@drawable/healthcare</item>
+        <item>@drawable/science</item>
+        <item>@drawable/art</item>
+        <item>@drawable/business</item>
+        <item>@drawable/environment</item>
+    </integer-array>
+</resources>
